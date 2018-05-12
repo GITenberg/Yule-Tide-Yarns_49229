@@ -1,4 +1,5 @@
 _repo: Yule-Tide-Yarns_49229
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,7 +10,12 @@ contributor:
       gutenberg_agent_id: '1032'
       url: http://www.gutenberg.org/2009/agents/1032
       wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+covers:
+- cover_type: archival
+  image_path: 49229-h/images/cover-image.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49229#Yule-Tide-Yarns
 gutenberg_issued: '2015-06-18'
 gutenberg_type: Text
 identifiers:
